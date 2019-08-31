@@ -1,1 +1,1 @@
-# diceRollGame
+# DICE-Roll-game
